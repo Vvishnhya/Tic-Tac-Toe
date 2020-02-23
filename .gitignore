@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/Does an array contain N/out/
+/Problems/Does an array contain N/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems (3)/The star figure/out/
+/Problems (3)/The star figure/out/production/classes/
+/Problems (4)/Rotate a rectange array/out/
+/Problems (4)/Rotate a rectange array/out/production/classes/
+/Problems (5)/Circle/out/
+/Problems (5)/Circle/out/production/classes/
+/Problems (11)/Calculating factorials/out/
+/Problems (11)/Calculating factorials/out/production/classes/
+/Problems (14)/Raise to the power/out/
+/Problems (14)/Raise to the power/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Does_an_array_contain_N_main" target="11" />
+      <module name="Problems-Does_an_array_contain_N_test" target="11" />
+      <module name="Problems-Individual_taxes_main" target="11" />
+      <module name="Problems-Individual_taxes_test" target="11" />
+      <module name="Problems-Right_Rotation_main" target="11" />
+      <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_main" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
+      <module name="Problems__10_-Fix_the_program_main" target="11" />
+      <module name="Problems__10_-Fix_the_program_test" target="11" />
+      <module name="Problems__11_-Calculating_factorials_main" target="11" />
+      <module name="Problems__11_-Calculating_factorials_test" target="11" />
+      <module name="Problems__12_-Raise_to_the_power_main" target="11" />
+      <module name="Problems__12_-Raise_to_the_power_test" target="11" />
+      <module name="Problems__13_-Raise_to_the_power_main" target="11" />
+      <module name="Problems__13_-Raise_to_the_power_test" target="11" />
+      <module name="Problems__14_-Raise_to_the_power_main" target="11" />
+      <module name="Problems__14_-Raise_to_the_power_test" target="11" />
+      <module name="Problems__1_-The_star_figure_main" target="11" />
+      <module name="Problems__1_-The_star_figure_test" target="11" />
+      <module name="Problems__2_-The_star_figure_main" target="11" />
+      <module name="Problems__2_-The_star_figure_test" target="11" />
+      <module name="Problems__3_-The_star_figure_main" target="11" />
+      <module name="Problems__3_-The_star_figure_test" target="11" />
+      <module name="Problems__4_-Rotate_a_rectange_array_main" target="11" />
+      <module name="Problems__4_-Rotate_a_rectange_array_test" target="11" />
+      <module name="Problems__5_-Circle_main" target="11" />
+      <module name="Problems__5_-Circle_test" target="11" />
+      <module name="Problems__6_-Check_sudoku_main" target="11" />
+      <module name="Problems__6_-Check_sudoku_test" target="11" />
+      <module name="Problems__7_-Balance_management_main" target="11" />
+      <module name="Problems__7_-Balance_management_test" target="11" />
+      <module name="Problems__8_-Check_sudoku_main" target="11" />
+      <module name="Problems__8_-Check_sudoku_test" target="11" />
+      <module name="Problems__9_-The_secret_enumeration_main" target="11" />
+      <module name="Problems__9_-The_secret_enumeration_test" target="11" />
+      <module name="Tic-Tac-Toe-task_main" target="11" />
+      <module name="Tic-Tac-Toe-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
